@@ -87,6 +87,16 @@ td, th{
   border: 1px solid #00008B;
   padding: 8px 15px;
 }
+footer {
+  text-align: center;
+  background: url("img.jpg");
+  padding: 40px 0;
+}
+.copyright{
+  color: white;
+  font-size: 13px;
+  margin: 20px 0 0;
+}
 .og{
   background-image: url(ceu.jpeg);
   background-repeat: no-repeat;
